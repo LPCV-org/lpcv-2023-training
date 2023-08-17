@@ -26,8 +26,6 @@ To validate your model, you can use the following command:
 ```bash
 scripts/val.sh
 ```
-where you should specify a path to the trained model.
-
 
 ## Converting to ONNX 
 
