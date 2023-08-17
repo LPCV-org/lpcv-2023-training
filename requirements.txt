@@ -7,3 +7,6 @@ albumentations
 sam-pytorch
 tqdm
 tabulate
+onnx
+onnxruntime
+onnxsim
