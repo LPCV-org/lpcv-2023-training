@@ -24,7 +24,7 @@ bash scripts/train.sh
 
 To validate your model, you can use the following command:
 ```bash
-scripts/val.sh
+bash scripts/val.sh
 ```
 
 ## Converting to ONNX 
