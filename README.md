@@ -35,3 +35,5 @@ bash scripts/export_onnx.sh
 ```
 
 When you will get the .onnx of trained model, you should use [lpcv-2023-inference](https://github.com/LPCV-org/lpcv-2023-inference) repository for evaluating your model on Jetson Nano.
+
+To contact us, please visit https://enot.ai or email us at enot@enot.ai.
